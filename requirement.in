@@ -3,3 +3,5 @@ langchain_community
 langchain
 sentence_transformers
 faiss_cpu
+langchain_groq
+langchain-classic

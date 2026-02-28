@@ -1,0 +1,16 @@
+# Python / JS / common junk
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+node_modules/
+dist/
+build/
+*.log
+*.cache
+*.DS_Store
+Thumbs.db
